@@ -18,14 +18,7 @@ MyToken is a Solidity smart contract. It extends the functionality of the ERC20 
   
 
 ## Usage
-1. **Deployment:**
-   - Deploy the `MyToken` contract to an Ethereum-compatible blockchain network, specifying a name, symbol, and initial supply for the token.
 
-2. **Minting:**
-   - The contract owner can mint new tokens by calling the `mint` function and specifying the recipient account and the amount of tokens to mint.
-
-3. **Burning:**
-   - Token holders can burn their own tokens by calling the `burn` function and specifying the amount of tokens to burn.
 
 
 ## Security Considerations
